@@ -8,4 +8,23 @@ table, tr, td{border: 1px solid black;
 table{width : 100%;}
 p{color: black;}
 
-p{font-size : 16pt}
+div p{
+    color:green;
+}
+address{
+    margin: 0px,0px,0px,0px;
+}
+b {float:right;}
+
+p{font-size : 1.0em}
+
+#date2{float:right;
+font-weight: bold;}
+
+#date1{float:right;
+font-weight: bold;}
+
+#date3{float:right;
+font-weight: bold;}
+.dates{float:right;
+font-weight:bold;}
